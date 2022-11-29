@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1494782728 source:d:\aktówka\nauka\liczby losowe c++ cz.1\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+
